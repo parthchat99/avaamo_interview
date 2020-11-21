@@ -18,3 +18,11 @@ Pos
 API Details 
 API: https://dictionary.yandex.net/api/v1/dicservice.json/lookup
 Documentation: https://tech.yandex.com/dictionary/doc/dg/reference/lookup-docpage/
+
+
+Steps to proceed:
+1. Clone the repository
+2. Install Node modules
+3. Run command:
+    node server.js
+4. Check the output on the terminal
